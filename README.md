@@ -1,35 +1,52 @@
-# Hongyi Xu
+<h1 align="center">Hongyi Xu</h1>
 
-**Ph.D. Student in Statistics and Data Science**  
-Washington University in St. Louis
+<p align="center">
+  PhD Student in Statistics · Washington University in St. Louis
+</p>
 
-[Academic website](https://hongyix99.github.io/) · [Email](mailto:xhongyi0211@gmail.com)
+<p align="center">
+  <strong>Robust causal learning and policy optimization for heterogeneous, interacting, data-limited populations.</strong>
+</p>
 
-## About Me
+<p align="center">
+  <a href="https://hongyix99.github.io/">Academic website</a> ·
+  <a href="https://github.com/hongyix99">GitHub</a>
+</p>
 
-I am a Ph.D. student at Washington University in St. Louis, advised by [Chao Cheng](https://www.chaochengstat.com/) and co-advised by [Xuming He](https://sds.washu.edu/people/xuming-he). My research interests lie in causal inference, semiparametric theory, and robust policy learning, with a focus on reliable decisions for heterogeneous and interacting populations.
+## About
 
-## Research Interests
+I am a PhD student in Statistics at Washington University in St. Louis, advised by **Chao Cheng** and co-advised by **Xuming He**. My research asks how statistical theory can support reliable decisions when treatment effects are heterogeneous, units interact, and the available data do not justify idealized assumptions.
 
-- Causal inference and semiparametric theory
-- Causal mediation and interference
-- Robust policy learning and decision-making
-- Sensitivity analysis and partial identification
-- Statistical machine learning and Bayesian computation
+I am especially interested in connecting rigorous causal identification and semiparametric efficiency theory with modern policy learning, machine learning, and applications in health and biomedicine.
 
-## Current Research
+## Research focus
 
-**Causal Mediation under Clustered Interference**  
-Identification and semiparametric estimation of direct, mediated, cross-mediated, and spillover effects under clustered interference and stochastic treatment policies.
+- **Causal mediation under interference** — direct, mediated, and spillover pathways in clustered and networked populations.
+- **Robust policy learning** — offline and online decision rules under limited overlap, small samples, distribution shift, and model uncertainty.
+- **Inference beyond ideal assumptions** — sensitivity analysis, partial identification, and robust estimation.
+- **Structured-population learning** — statistical and machine-learning methods for heterogeneous, interacting units.
 
-My earlier research at Columbia University involved Bayesian computation for mixed-membership network models, Poisson–Inverse Gaussian models, and variational inference for high-dimensional linear regression.
+## Current work
 
-## Education
+### Causal mediation under clustered interference
 
-- **Washington University in St. Louis**, Ph.D. in Statistics and Data Science, 2025–present
-- **Columbia University**, M.A. in Statistics, 2022–2023  
-  Chair's List of Academic Achievements
-- **University of California, Santa Barbara**, B.S. in Financial Mathematics and Statistics; minor in German Studies, 2017–2021  
-  Honors at Graduation · Dean's Honor List
+Developing a unified framework for separating direct, self-mediated, cross-mediated, and spillover pathways under stochastic treatment policies, with an emphasis on identification and efficient, robust estimation.
 
-See my [academic website](https://hongyix99.github.io/) for research and teaching experience.
+### Policy optimization for heterogeneous, interacting populations
+
+Studying theory and algorithms for choosing interventions when benefits vary across people and outcomes interact through social or clustered structure.
+
+## Methods and themes
+
+`Semiparametric inference` · `Causal mediation` · `Interference` · `Policy learning` · `Robust statistics` · `Sensitivity analysis` · `Partial identification` · `Statistical machine learning` · `Network models`
+
+## Training
+
+- **PhD in Statistics**, Washington University in St. Louis — current
+- **MA in Statistics**, Columbia University — 2024
+
+---
+
+<p align="center">
+  Careful identification. Efficient inference. Consequential decisions.
+</p>
