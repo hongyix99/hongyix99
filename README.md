@@ -3,7 +3,7 @@
 **Ph.D. Student in Statistics and Data Science**  
 Washington University in St. Louis
 
-[Academic website](https://hongyix99.github.io/) · [hongyix@wustl.edu](mailto:hongyix@wustl.edu) · [LinkedIn](https://www.linkedin.com/in/hongyi-xu-7717b51a8/)
+[Academic website](https://hongyixu-stat.github.io/) · [hongyix@wustl.edu](mailto:hongyix@wustl.edu) · [LinkedIn](https://www.linkedin.com/in/hongyi-xu-7717b51a8/)
 
 ## About Me
 
@@ -25,4 +25,4 @@ Causal mediation analysis under stochastic treatment policies, with a focus on i
 - **University of California, Santa Barbara**, B.S. in Financial Mathematics and Statistics, 2017–2021  
   Honors at Graduation · Dean's Honor List
 
-See my [academic website](https://hongyix99.github.io/) for research and teaching experience.
+See my [academic website](https://hongyixu-stat.github.io/) for research and teaching experience.
