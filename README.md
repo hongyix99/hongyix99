@@ -1,52 +1,28 @@
-<h1 align="center">Hongyi Xu</h1>
+# Hongyi Xu
 
-<p align="center">
-  PhD Student in Statistics · Washington University in St. Louis
-</p>
+**Ph.D. Student in Statistics and Data Science**  
+Washington University in St. Louis
 
-<p align="center">
-  <strong>Robust causal learning and policy optimization for heterogeneous, interacting, data-limited populations.</strong>
-</p>
+[Academic website](https://hongyix99.github.io/) · [hongyix@wustl.edu](mailto:hongyix@wustl.edu) · [LinkedIn](https://www.linkedin.com/in/hongyi-xu-7717b51a8/)
 
-<p align="center">
-  <a href="https://hongyix99.github.io/">Academic website</a> ·
-  <a href="https://github.com/hongyix99">GitHub</a>
-</p>
+## About Me
 
-## About
+I am a Ph.D. student at Washington University in St. Louis, where I am honored to be advised by Prof. [Chao Cheng](https://www.chaochengstat.com/). My research interests lie in causal inference and semiparametric theory, as well as statistical machine learning and Bayesian computation.
 
-I am a PhD student in Statistics at Washington University in St. Louis, advised by **Chao Cheng** and co-advised by **Xuming He**. My research asks how statistical theory can support reliable decisions when treatment effects are heterogeneous, units interact, and the available data do not justify idealized assumptions.
+## Working Paper
 
-I am especially interested in connecting rigorous causal identification and semiparametric efficiency theory with modern policy learning, machine learning, and applications in health and biomedicine.
+**Causal Mediation under Clustered Interference: A Stochastic Policy Framework**  
+with [Chao Cheng](https://www.chaochengstat.com/)  
+Working paper · In preparation
 
-## Research focus
+Causal mediation analysis under stochastic treatment policies, with a focus on individual and spillover pathways in clustered populations.
 
-- **Causal mediation under interference** — direct, mediated, and spillover pathways in clustered and networked populations.
-- **Robust policy learning** — offline and online decision rules under limited overlap, small samples, distribution shift, and model uncertainty.
-- **Inference beyond ideal assumptions** — sensitivity analysis, partial identification, and robust estimation.
-- **Structured-population learning** — statistical and machine-learning methods for heterogeneous, interacting units.
+## Education
 
-## Current work
+- **Washington University in St. Louis**, Ph.D. in Statistics and Data Science, 2025–present
+- **Columbia University**, M.A. in Statistics, 2022–2023  
+  Chair's List of Academic Achievements
+- **University of California, Santa Barbara**, B.S. in Financial Mathematics and Statistics, 2017–2021  
+  Honors at Graduation · Dean's Honor List
 
-### Causal mediation under clustered interference
-
-Developing a unified framework for separating direct, self-mediated, cross-mediated, and spillover pathways under stochastic treatment policies, with an emphasis on identification and efficient, robust estimation.
-
-### Policy optimization for heterogeneous, interacting populations
-
-Studying theory and algorithms for choosing interventions when benefits vary across people and outcomes interact through social or clustered structure.
-
-## Methods and themes
-
-`Semiparametric inference` · `Causal mediation` · `Interference` · `Policy learning` · `Robust statistics` · `Sensitivity analysis` · `Partial identification` · `Statistical machine learning` · `Network models`
-
-## Training
-
-- **PhD in Statistics**, Washington University in St. Louis — current
-- **MA in Statistics**, Columbia University — 2024
-
----
-
-<p align="center">
-  Careful identification. Efficient inference. Consequential decisions.
-</p>
+See my [academic website](https://hongyix99.github.io/) for research and teaching experience.
